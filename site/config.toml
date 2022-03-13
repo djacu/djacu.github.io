@@ -1,0 +1,36 @@
+# The URL the site will be built for
+base_url = "https://djacu.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# The site theme to use.
+# theme = "terminimal"
+theme = "zerm"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+
+author = "Daniel Baker"
+show_author = false
+
+# What is displayed in the top left corner of the website. Default is zerm.
+logo_text = "djacu"
+
+theme_color = "blue"
+
+# Menu items to display. You define a url and the name of the menu item.
+# NOTE: `$BASE_URL/` must be included in the url name.
+main_menu = [
+              {url="/about/", name="about"},
+              {url="/contact/", name="contact"},
+]
+      
