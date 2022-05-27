@@ -10,7 +10,7 @@ I am an engineer/scientist turned software developer. Currently, I am exploring 
 
 # Bio
 
-Daniel studied Control Theory, Estimation Theory, and Signal Processing. He spent many years, as a Systems Engineer, analyzing, building, and testing gimbal stabilized platforms. Following that he spent a few years developing Signal Processing and Signal Communications libraries. Now he is passionate about creating clear, maintainable, and well tested code in reproducible systems. He cares about mentoring, teaching, and making complicated software accessible for the end user.
+Dan studied Control Theory, Estimation Theory, and Signal Processing. He spent many years, as a Systems Engineer, analyzing, building, and testing gimbal stabilized platforms. Following that he spent a few years developing Signal Processing and Signal Communications libraries. Now he is passionate about creating clear, maintainable, and well tested code in reproducible systems. He cares about mentoring, teaching, and making complicated software accessible for the end user.
 
 # Skills
 
@@ -39,4 +39,14 @@ Senior Systems Engineer
 **DRS Sensors & Targeting Systems**  
 June 2008 -- November 2014  
 Senior Systems Engineer
+
+# Education
+
+**University of Southern California**  
+Masters of Science - Electrical Engineering - Controls  
+2016 -- 2018
+
+**Rose-Hulman Institute of Technology**  
+Bachelors of Science - Electrical Engineering & Applied Mathematics  
+2004 -- 2008
 
