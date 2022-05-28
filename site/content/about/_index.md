@@ -1,6 +1,8 @@
 +++
 title = "about"
 
+[extra]
+date = 2022-05-27
 +++
 
 Hi! My name is Daniel Baker (he/they) but I go by Dan these days.
